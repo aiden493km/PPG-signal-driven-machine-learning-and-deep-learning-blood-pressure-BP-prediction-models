@@ -19,7 +19,7 @@ We proposed a solution: extracting BP features, using Random Forest algorithm to
 
 ### BP prediction:
 
-- SEMM-ResNet (Deep Learning model) is used to predict BP in this stage
+- SEM-ResNet (Deep Learning model) is used to predict BP in this stage
 
 # References
 Ma, C., Sun, Y., Zhang, P., Song, F., Feng, Y., He, Y., & Zhang, G. (2024).
