@@ -4,7 +4,6 @@
 
 We proposed a solution: extracting BP features, using Random Forest algorithm to classify BP, and innovatively using Deep Learning model **SEM-ResNet** to predict BP. 
 
-<img width="2480" height="3508" alt="海报水印" src="https://github.com/user-attachments/assets/3cf0f383-b804-4902-9a19-863b9c306939" />
 
 # Dataset
 - The MWPPG sensor is sampled at lkHz
@@ -20,6 +19,11 @@ We proposed a solution: extracting BP features, using Random Forest algorithm to
 ### BP prediction:
 
 - SEM-ResNet (Deep Learning model) is used to predict BP in this stage
+
+
+# Poster
+<img width="2480" height="3508" alt="海报水印" src="https://github.com/user-attachments/assets/3cf0f383-b804-4902-9a19-863b9c306939" />
+
 
 # References
 Ma, C., Sun, Y., Zhang, P., Song, F., Feng, Y., He, Y., & Zhang, G. (2024).
