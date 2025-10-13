@@ -22,7 +22,7 @@ We proposed a solution: extracting BP features, using Random Forest algorithm to
 
 
 # Poster
-<img width="2480" height="3508" alt="海报水印" src="https://github.com/user-attachments/assets/3cf0f383-b804-4902-9a19-863b9c306939" />
+<img width="1240" height="1754" alt="海报水印" src="https://github.com/user-attachments/assets/3cf0f383-b804-4902-9a19-863b9c306939" />
 
 
 # References
